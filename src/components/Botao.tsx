@@ -7,7 +7,7 @@ interface BotaoProps {
 
 export default function Botao(props: BotaoProps){
     const cores = {
-        green: 'from-green-400 to-green-900',
+        green: 'from-green-600 to-green-700',
         blue: 'from-blue-400 to-blue-900',
         gray: 'from-gray-400 to-gray-900',
     }
